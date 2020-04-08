@@ -25,8 +25,5 @@ android {
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'com.google.android.exoplayer:exoplayer:2.8.4'
-//    implementation 'com.google.android.exoplayer:exoplayer-core:2.8.4'
-//    implementation 'com.google.android.exoplayer:exoplayer-dash:2.8.4'
-//    implementation 'com.google.android.exoplayer:exoplayer-ui:2.8.4'
     implementation 'com.squareup.picasso:picasso:2.71828'
 }
